@@ -22,10 +22,8 @@ To download dependencies and While in the project's root directory enter:
 
 
 ## Usage
-Screenshot coming soon!
-
 Video link:
-https://drive.google.com/file/d/11l5mFzS2eJl9mCkz58EXBnISPYTadzy1/view
+https://drive.google.com/file/d/1Q-tTe7lfNCd7vU9XcQ3dY8Mu7TKyNum3/view
 ## Credits
 
 UT Austin Coding Bootcamp
