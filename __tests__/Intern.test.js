@@ -2,7 +2,7 @@ const { expect, test } = require('@jest/globals');
 const Intern = require('../lib/Intern');
 
 test('creates an intern object', () => {
-    const intern = new Intern('Rob', 1234, 'rob@email.com', 'Yale');
+    const intern = new Intern('Rob', 1234, 'rob@email.com', 'UT Austin');
 
     expect(intern).toEqual(expect.any(Object));
     expect(intern.name).toEqual('Rob');
