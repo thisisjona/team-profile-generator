@@ -30,5 +30,3 @@ https://drive.google.com/file/d/11l5mFzS2eJl9mCkz58EXBnISPYTadzy1/view
 
 UT Austin Coding Bootcamp
 
-
-FRONT END AND FUNCTIONALITY COMING SOON!!! :)
