@@ -3,6 +3,7 @@ const fs = require('fs');
 const writeFile = (fileData) => {
     return new Promise((resolve, reject) => {
         fs.writeFile("./dist/index.html", fileData, (err) => {
+            console.log("Writing team data to file...")
             if (err) {
                 reject(err);
                 return;
@@ -10,7 +11,9 @@ const writeFile = (fileData) => {
 
             resolve({
                 ok: true,
-                message: "File succesfully created!"
+                message: `
+                File Written Succesfully!
+                `
             });
         })
     })
